@@ -19,7 +19,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${workSans.className} flex h-screen w-screen items-center justify-center bg-mobile bg-contain bg-top bg-no-repeat lg:bg-desktop `}
+        className={`${workSans.className} flex h-screen w-screen items-center justify-center bg-lightPink bg-mobile bg-contain bg-top bg-no-repeat lg:bg-desktop `}
       >
         {children}
       </body>
