@@ -1,4 +1,4 @@
-# Frontend Mentor - FAQ accordion solution
+ef# Frontend Mentor - FAQ accordion solution
 
 This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -22,12 +22,12 @@ Users should be able to:
 
 ## Screenshot
 
-![]()
+![Screen Shot 2024-02-28 at 22 48 32](https://github.com/palmeiroerick/faq-accordion/assets/148393698/1f291901-b4b5-4f2c-a963-90a72a19546f)
 
 ## Links
 
-- [Solution]()
-- [Live Site]()
+- [Solution](https://github.com/palmeiroerick/faq-accordion/)
+- [Live Site](https://faq-accordion-ruddy-zeta.vercel.app/)
 
 ## Built with
 
